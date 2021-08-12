@@ -1,0 +1,15 @@
+{
+  "name": "upaw2",
+  "version": "0.1.0",
+  "description": "TP Arquitectura Web",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongodb": "^3.3.3"
+  }
+}
